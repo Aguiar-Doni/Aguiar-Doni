@@ -4,7 +4,4 @@
 
 ## Estudante de Desenvolvimento Web Full Stack - Trybe 
 
-<body>
-                        <i class="devicon-devicon-plain "></i>
-            </body>
-          
+
