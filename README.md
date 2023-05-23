@@ -1,4 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá%20!!👋+tudo+bão+demais%20?;Sou+Rafael+Donizete+de+Aguiar;Estudante+de+Desenvolvimento+Web;Seja+Bem+Vindo!!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02410D&background=06060600&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1+!!+Eu+sou+Rafael+Aguiar...;Estudante+de+desenvolvimento+web;Seja+Bem+vindo+ao+meu+perfil" alt="Typing SVG" /></a>
 
 ## Estudante de Desenvolvimento Web Full Stack - Trybe 
+
