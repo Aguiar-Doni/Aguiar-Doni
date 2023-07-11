@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Aguiar-Doni">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aguiar-Doni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguiar-Doni&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguiar-aoni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguiar-doni&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
